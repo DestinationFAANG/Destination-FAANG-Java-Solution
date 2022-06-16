@@ -1,5 +1,5 @@
 //Leetcode Link: https://leetcode.com/problems/longest-palindromic-substring/
-//Youtube Solution: 
+//Youtube Solution: https://www.youtube.com/watch?v=92KOT17h8zw
 
 class Solution {
     public String longestPalindrome(String s) {
