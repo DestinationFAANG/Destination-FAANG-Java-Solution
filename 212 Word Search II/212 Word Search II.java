@@ -1,5 +1,5 @@
 //Best Leetcode problems for FAANG: https://docs.google.com/spreadsheets/d/1hzP8j7matoUiJ15N-RhsL5Dmig8_E3aP/edit#gid=1377915986
-//Youtube Solution: 
+//Youtube Solution: https://www.youtube.com/watch?v=8K2Sh9ingJA
 //Leetcode Link: https://leetcode.com/problems/word-search-ii/
 
 //**************** Java Solution ***********************
