@@ -2,7 +2,7 @@
 
 // Leetcode Link: https://leetcode.com/problems/jump-game-ii/
 
-// Video Solution: 
+// Video Solution: https://www.youtube.com/watch?v=d_1GRnMg_zs
 
 **************** Java Solution ***********************
 
