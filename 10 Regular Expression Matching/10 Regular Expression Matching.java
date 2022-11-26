@@ -2,7 +2,7 @@
 
 // Leetcode Link: https://leetcode.com/problems/regular-expression-matching/
 
-// Video Solution: 
+// Video Solution: https://www.youtube.com/watch?v=VFQddcCP46c
 
 **************** Java Solution ***********************
 
