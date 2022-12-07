@@ -2,7 +2,7 @@
 
 // Leetcode Link: https://leetcode.com/problems/copy-list-with-random-pointer/
 
-// Video Solution: 
+// Video Solution: https://www.youtube.com/watch?v=vy7ZJ4TdyS8
 
 // **************** Java Solution ***********************
 
