@@ -2,7 +2,7 @@ Most asked problems at FAANG companies: https://docs.google.com/spreadsheets/d/1
 
 Leetcode Link: https://leetcode.com/problems/first-missing-positive/
 
-Video Solution: 
+Video Solution: https://www.youtube.com/watch?v=N8DefKVUIKw
 
 **************** Java Solution ***********************
 
