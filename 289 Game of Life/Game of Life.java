@@ -2,7 +2,7 @@ Most asked problems at FAANG companies: https://docs.google.com/spreadsheets/d/1
 
 Leetcode Link:https://leetcode.com/problems/game-of-life/
 
-Video Solution: 
+Video Solution: https://www.youtube.com/watch?v=1FQNMDPZXRc
 
 **************** Java Solution ***********************
 
