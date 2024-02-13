@@ -2,7 +2,7 @@
 
 // Leetcode Link: https://leetcode.com/problems/min-stack/
 
-// Video Solution: https://www.youtube.com/watch?v=PWoIZxcamsQ
+// Video Solution: https://www.youtube.com/watch?v=To2iap-ac3g
 
 **************** Java Solution ***********************
 
