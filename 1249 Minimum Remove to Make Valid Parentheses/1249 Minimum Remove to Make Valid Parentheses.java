@@ -2,8 +2,7 @@
 
 // Leetcode Link:  https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/
 
-// Video Solution: https://www.youtube.com/watch?v=IasMlShanvc
-
+// Video Solution: https://www.youtube.com/watch?v=h9skhJ_UZQo
 
 **************** Java Solution ***********************
 
