@@ -2,7 +2,7 @@
 
 // Leetcode Link:  https://leetcode.ca/all/716.html
 
-// Video Solution: https://www.youtube.com/watch?v=IasMlShanvc
+// Video Solution: https://www.youtube.com/watch?v=SyDmmNQFW_I
 
 
 **************** Java Solution ***********************
