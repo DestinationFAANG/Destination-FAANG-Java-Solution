@@ -2,7 +2,7 @@
 
 // Leetcode Link:  https://leetcode.com/problems/longest-valid-parentheses/
 
-// Video Solution: https://www.youtube.com/watch?v=IasMlShanvc
+// Video Solution: https://www.youtube.com/watch?v=GrSL3c8G6k8
 
 
 **************** Java Solution ***********************
