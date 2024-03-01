@@ -2,7 +2,7 @@
 
 // Leetcode Link: https://leetcode.com/problems/koko-eating-bananas/
 
-// Video Solution: https://www.youtube.com/watch?v=dP4cb8zbohY
+// Video Solution: https://www.youtube.com/watch?v=3m3QZeiH3KI
 
 
 **************** Java Solution ***********************
