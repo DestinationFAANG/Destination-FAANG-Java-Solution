@@ -2,7 +2,7 @@
 
 // Leetcode Link: https://leetcode.com/problems/count-good-nodes-in-binary-tree/
 
-// Video Solution: https://www.youtube.com/watch?v=4lMY-g0Afg8
+// Video Solution: https://www.youtube.com/watch?v=AiCPoU8q2sU
 
 **************** Java Solution ***********************
 
