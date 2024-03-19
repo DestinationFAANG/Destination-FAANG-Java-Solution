@@ -2,7 +2,7 @@
 
 // Leetcode Link: https://leetcode.com/problems/design-twitter/
 
-// Video Solution: https://www.youtube.com/watch?v=99l7goR4y0U
+// Video Solution: https://www.youtube.com/watch?v=esZ4vvjwW6E
 
 **************** Java Solution ***********************
 
