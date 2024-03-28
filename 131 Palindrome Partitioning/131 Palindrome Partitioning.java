@@ -2,7 +2,7 @@
 
 // Leetcode Link: https://leetcode.com/problems/palindrome-partitioning/
 
-// Video Solution: https://www.youtube.com/watch?v=GPigeECXWZE
+// Video Solution: https://www.youtube.com/watch?v=NWe3W2bMVAU
 
 **************** Java Solution ***********************
 
