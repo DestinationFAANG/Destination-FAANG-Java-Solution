@@ -2,7 +2,7 @@
 
 // Leetcode Link: https://leetcode.com/problems/n-queens/
 
-// Video Solution: https://www.youtube.com/watch?v=GPigeECXWZE
+// Video Solution: https://www.youtube.com/watch?v=MOrMPEq6P5w
 
 **************** Java Solution ***********************
 
