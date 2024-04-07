@@ -2,7 +2,7 @@
 
 // Leetcode Link: https://leetcode.com/problems/swim-in-rising-water
 
-// Video Solution: https://www.youtube.com/watch?v=QKRRjz4KMuE
+// Video Solution: https://www.youtube.com/watch?v=WYHvHkh9kHQ
 
 **************** Java Solution ***********************
 
