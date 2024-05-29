@@ -2,7 +2,7 @@
 
 // Leetcode Link: https://leetcode.com/problems/longest-common-subsequence/
 
-// Video Solution: https://www.youtube.com/watch?v=A3LYMRqAQeU
+// Video Solution: https://www.youtube.com/watch?v=g9iNrsBR9BE
 
 **************** Java Solution ***********************
 
