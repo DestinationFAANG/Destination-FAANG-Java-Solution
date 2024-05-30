@@ -2,7 +2,7 @@
 
 // Leetcode Link: https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/
 
-// Video Solution: https://www.youtube.com/watch?v=A3LYMRqAQeU
+// Video Solution: https://www.youtube.com/watch?v=PH5jUN1cNHo
 
 **************** Java Solution ***********************
 
