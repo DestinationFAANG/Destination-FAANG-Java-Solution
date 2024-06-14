@@ -2,7 +2,7 @@
 
 // Leetcode Link: https://leetcode.com/problems/hand-of-straights/
 
-// Video Solution: https://www.youtube.com/watch?v=9QqOX57nMAY
+// Video Solution: https://www.youtube.com/watch?v=ISHUyNJVq_M
 
 **************** Java Solution ***********************
 class Solution {
