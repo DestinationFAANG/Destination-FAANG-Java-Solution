@@ -2,7 +2,7 @@
 
 // Leetcode Link: https://leetcode.com/problems/implement-queue-using-stacks/
 
-// Video Solution: https://www.youtube.com/watch?v=VFQddcCP46c
+// Video Solution: https://www.youtube.com/watch?v=Qb4CjVNgvUQ
 
 **************** Java Solution ***********************
 
