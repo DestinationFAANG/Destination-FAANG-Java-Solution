@@ -1,6 +1,6 @@
 // Most asked problems at FAANG companies: https://docs.google.com/spreadsheets/d/1hzP8j7matoUiJ15N-RhsL5Dmig8_E3aP/edit#gid=1377915986
 //Leetcode Link: https://leetcode.com/problems/dota2-senate/
-//Youtube Link: https://www.youtube.com/watch?v=pe8TZuVeffQ
+//Youtube Link: https://youtu.be/oVuzg2AJYos
 
 
 **************** Java Solution ***********************
