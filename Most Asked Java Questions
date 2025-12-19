@@ -1,0 +1,85 @@
+Two Sum (Easy)
+
+Best Time to Buy and Sell Stock (Easy)
+
+Contains Duplicate (Easy)
+
+Contains Duplicate II (Easy)
+
+Product of Array Except Self (Medium)
+
+Maximum Subarray (Medium)
+
+Maximum Product Subarray (Medium)
+
+Find Minimum in Rotated Sorted Array (Medium)
+
+Search in Rotated Sorted Array (Medium)
+
+Two Sum II - Input Array Is Sorted (Medium)
+
+3Sum (Medium)
+
+Merge Sorted Array (Easy)
+
+Container With Most Water (Medium)
+
+Verifying an Alien Dictionary (Easy)
+
+Next Permutation (Medium)
+
+Remove Duplicates from Sorted Array (Easy)
+
+Find First and Last Position of Element in Sorted Array (Medium)
+
+Trapping Rain Water (Hard)
+
+Median of Two Sorted Arrays (Hard)
+
+Valid Anagram (Easy)
+
+Top K Frequent Elements (Medium)
+
+Group Anagrams (Medium)
+
+Valid Sudoku (Medium)
+
+Encode and Decode Strings (Medium)
+
+Longest Consecutive Sequence (Medium) fet all codes
+
+
+1. Core Java Concepts
+- Explain OOP principles (Encapsulation, Inheritance, Polymorphism, Abstraction).
+- Difference between process vs. thread.
+- How does Java achieve platform independence?
+- Difference between HashMap, Hashtable, ConcurrentHashMap.
+- Explain String immutability and why it matters.
+- Difference between == and equals() in Java.
+- What is the Java Memory Model (heap, stack, GC)?
+
+2. Concurrency & Multithreading
+- Difference between synchronized methods vs. synchronized blocks.
+- Explain volatile keyword and its use.
+- How does ThreadLocal work?
+- Difference between Callable vs Runnable.
+- Explain deadlock, livelock, starvation with examples
+
+3. JVM Internals
+- What happens during class loading?
+- Explain JIT compiler.
+- Difference between heap vs. stack memory.
+- How does Garbage Collection work (Minor GC vs Major GC)?
+4. Data Structures & Algorithms (Java Implementation)
+- Find first and last position of an element in a sorted array.
+- Implement LRU Cache using LinkedHashMap.
+- Reverse a linked list iteratively and recursively.
+- Detect a cycle in a linked list.
+- Implement producer-consumer problem using wait/notify.
+- Solve two-sum, longest substring without repeating characters, merge intervals.
+
+
+5. System Design + Java
+- How would you design a scalable chat system in Java?
+- How do you handle millions of requests per second with Java threads?
+- Explain Spring Boot microservices integration with Java.
